@@ -1,6 +1,13 @@
 {
   "manifest_version": 3,
-  "name": "ManegLine",
+  "name": "MaengLine",
   "description": "웹페이지에 있는 텍스트에 하이라이팅을 하여 중요한 정보를 문장 단위로 저장하고 관리하는 기능을 제공합니다.",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "icons": {
+    "16": "images/logo.png",
+    "32": "images/logo.png",
+    "64": "images/logo.png",
+    "48": "images/logo.png",
+    "128": "images/logo.png"
+  }
 }
